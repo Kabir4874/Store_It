@@ -20,6 +20,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "st3.depositphotos.com",
       },
+      {
+        protocol: "https",
+        hostname: "fra.cloud.appwrite.io",
+      },
     ],
   },
 };
